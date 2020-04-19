@@ -71,14 +71,23 @@
 
 ## Links to questions and resources: 
 https://github.com/MaximAbramchuck/awesome-interview-questions
+
 https://github.com/yangshun/tech-interview-handbook
+
 https://yangshun.github.io/tech-interview-handbook/
+
 https://github.com/jdsutton/Technical-Interview-Megarepo
+
 https://github.com/SuyashLakhotia/TechInterview
+
 https://github.com/d1mnewz/interviews
+
 https://github.com/JerAguilon/TechnicalInterviewCodeSnippets
+
 https://github.com/domfarolino/algorithms
+
 https://github.com/aakash1104/Graph-Algorithms
+
 https://github.com/Imaginea/codeXpose
 
 
