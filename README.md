@@ -19,6 +19,10 @@
   * Wednesday 19:00 - 22:00 <br/>
     Saturday      09:00 - 12:00
   * I will make a zoom chat or a zoom link later
+  * To contribute:
+      1. Fork repository and open a branch, preferredly
+      2. Edit README.md (I just used the Github Markdown Editor)
+      3. Open a pull/merge request, and I will approve it!
   
 ## 📗 Materials
   * Cracking the Code Interview by Gayle Laakmann McDowell
