@@ -1,4 +1,4 @@
-# 👔 Welcome folks, to the deadly summer interviewing grind
+# 👔 Welcome folks, to the deadly summer interviewing grind!
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 
