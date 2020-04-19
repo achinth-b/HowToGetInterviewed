@@ -5,14 +5,14 @@
 ### (add more companies, add more questions, and when in doubt, I will categorize it) <br/> (add solutions below if you have them! I will add instructions for contributions via MRs)
 
 ## ✅ Legend 
-  * Red: Object oriented design 
-  * Orange: System design
-  * Yellow: Algorithms 
-  * Green: Leetcode and technical thinking questions 
-  * Grey: Math questions and logic 
-  * Blue: Technical knowledge and project-based questions
-  * Purple: Testing technical portions 
-  * Pink: Behavioural Questions
+  * RED: Object oriented design 
+  * ORANGE: System design
+  * YELLOW: Algorithms 
+  * GREEN: Leetcode and technical thinking questions 
+  * GREY: Math questions and logic 
+  * BLUE: Technical knowledge and project-based questions
+  * PURPLE: Testing technical portions 
+  * PINK: Behavioural Questions
 
 ## 🔔 Consensus
   * Twice a week, we are going to meet. We are going to discuss questions, we are going to do questions, we             are going to ask questions, we are going to contribute questions in order to get good at interviewing.
