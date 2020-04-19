@@ -69,7 +69,7 @@
 | Saturday, September 5      |       |    |
 |I hate school, tbh| ugh | ugh|
 
-## Links to questions and resources: 
+## 🔗 Links to questions and resources: 
 https://github.com/MaximAbramchuck/awesome-interview-questions
 
 https://github.com/yangshun/tech-interview-handbook
@@ -92,5 +92,5 @@ https://github.com/Imaginea/codeXpose
 
 
 
-## Template to answering Technical Questions
+## 🎼 Template to answering Technical Questions
 
