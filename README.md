@@ -29,44 +29,44 @@
 | What day is it?| Stuff to do   | Who's leading it?  |
 | ------------- |:-------------:|:-----:|
 | Saturday, April 25     | Discussion about how we are going to organize commitment |  |
-| Wednesday, April 29      |       |    |
-| Saturday, May 2     |  |  |
-| Wednesday, May 6      |       |    |
-| Saturday, May 9     |  |  |
-| Wednesday, May 13      |       |    |
-| Saturday, May 16     |  |  |
-| Wednesday, May 20      |       |    |
-| Saturday, May 23     |  |  |
-| Wednesday, May 27      |       |    |
-| Saturday, May 30     |  |  |
-| Wednesday, June 3     |  |  |
-| Saturday, June 6      |       |    |
-| Wednesday, June 10     |  |  |
-| Saturday, June 13      |       |    |
-| Wednesday, June 17     |  |  |
-| Saturday, June 20      |       |    |
-| Wednesday, June 24     |  |  |
-| Saturday, June 27      |       |    |
-| Wednesday, July 1, Canada Day 🇨🇦   |       |    |
-| Saturday, July 4, America Day 🇺🇸 | |  |
-| Wednesday, July 8     |  |  |
-| Saturday, July 11      |       |    |
-| Wednesday, July 15     |  |  |
-| Saturday, July 18      |       |    |
-| Wednesday, July 22     |  |  |
-| Saturday, July 25      |       |    |
-| Wednesday, July 29     |  |  |
-| Saturday, August 1     |  |  |
-| Wednesday, August 5      |       |    |
-| Saturday, August 8     |  |  |
-| Wednesday, August 12      |       |    |
-| Saturday, August 15     |  |  |
-| Wednesday, August 19      |       |    |
-| Saturday, August 22     |  |  |
-| Wednesday, August 26      |       |    |
-| Saturday, August 29     |  |  |
-| Wednesday, September 2     |  |  |
-| Saturday, September 5      |       |    |
+| Wednesday, April 29    | CTCI: Big O Notation, and Tackling Technical Questions |    |
+| Saturday, May 2        | CTCI: Arrays and Strings |  |
+| Wednesday, May 6       | CTCI: Linked Lists      |    |
+| Saturday, May 9        | CTCI: Stacks and Queues  |  |
+| Wednesday, May 13      | CTCI: Trees and Graphs      |    |
+| Saturday, May 16       | CTCI: Bit Manipulation |  |
+| Wednesday, May 20      | CTCI: Math and Logic Puzzles      |    |
+| Saturday, May 23       | CTCI: Object-oriented Design |  |
+| Wednesday, May 27      | CTCI: Recursion and Dynamic Programming      |    |
+| Saturday, May 30       | CTCI: Systetm Design and Scalability |  |
+| Wednesday, June 3      | CTCI: Sorting and Searching |  |
+| Saturday, June 6       | CTCI: Testing     |    |
+| Wednesday, June 10     | Leetcode: |  |
+| Saturday, June 13      | Leetcode:     |    |
+| Wednesday, June 17     | Leetcode: |  |
+| Saturday, June 20      | Leetcode:      |    |
+| Wednesday, June 24     | Leetcode: |  |
+| Saturday, June 27      | Leetcode:      |    |
+| Wednesday, July 1, Canada Day 🇨🇦 | Leetcode:       |    |
+| Saturday, July 4, America Day 🇺🇸 | Leetcode: |  |
+| Wednesday, July 8      | Leetcode:  |  |
+| Saturday, July 11      | Leetcode:      |    |
+| Wednesday, July 15     | Leetcode:  |  |
+| Saturday, July 18      | Leetcode:     |    |
+| Wednesday, July 22     | Leetcode: |  |
+| Saturday, July 25      | Leetcode:      |    |
+| Wednesday, July 29     | Leetcode: |  |
+| Saturday, August 1     | Algorithms: |  |
+| Wednesday, August 5    | Algorithms:      |    |
+| Saturday, August 8     | Algorithms: |  |
+| Wednesday, August 12   | Algorithms:      |    |
+| Saturday, August 15    | Algorithms: |  |
+| Wednesday, August 19   | Behavioural:       |    |
+| Saturday, August 22    | Behavioural: |  |
+| Wednesday, August 26   | Behavioural:      |    |
+| Saturday, August 29    | Behavioural: |  |
+| Wednesday, September 2 | Behavioural: |  |
+| Saturday, September 5  | Ending: confidence gauge, and how we can improve! Also you bois let's get dinner|    |
 |I hate school, tbh| ugh | ugh|
 
 ## 🔗 Links to questions and resources: 
