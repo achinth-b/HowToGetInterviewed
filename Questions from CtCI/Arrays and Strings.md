@@ -3,7 +3,8 @@
 ## Things to remember and notes:
 
 ### Runtimes you need to memorize
-* Insertion Sort, Selection Sort and Quicksort: O(n^2)
+* Insertion Sort, Selection Sort and Quicksort: O(n<sup>2</sup>)
+* Mergesort, Heapsort: O(n log n)
 
 
 ## Questions: 
@@ -44,3 +45,18 @@ int sqrt(int x){
     }
 }
 ~~~
+4) 
+~~~
+int intersect(int[] a, int[] b){
+    mergesort(b);
+    int intersect = 0; 
+    
+    for (int x : a) {
+        if (binarySearch(b, x) >= 0) {
+            intersect++;
+        }
+    }
+    return intersect; 
+}
+~~~
+
