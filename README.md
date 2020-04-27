@@ -17,7 +17,7 @@
 ## 🔔 Consensus
   * Twice a week, we are going to meet. We are going to discuss questions, we are going to do questions, we             are going to ask questions, we are going to contribute questions in order to get good at interviewing.
   * Wednesday 19:00 - 22:00 <br/>
-    Saturday      09:00 - 12:00
+    Saturday      13:30 - 16:30
   * I will make a zoom chat or a zoom link later
   * To contribute:
       1. Fork repository and open a branch, preferredly
