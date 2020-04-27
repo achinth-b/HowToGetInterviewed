@@ -2,9 +2,14 @@
 
 ## Things to remember and notes:
 
-## Questions: 
+### Runtimes you need to memorize
+*
 
-''' javascript
+
+## Questions: 
+1)
+~~~
+ ``` java
 int product(int a, int b){
     int sum = 0; 
     for(int i = 0; i < b; i++){
@@ -12,4 +17,12 @@ int product(int a, int b){
     }
     return sum; 
 }
-'''
+```
+~~~
+
+2)
+``` 
+
+
+```
+
