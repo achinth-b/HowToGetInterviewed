@@ -97,4 +97,7 @@ https://github.com/Imaginea/codeXpose
 
 
 ## 🎼 Template to answering Technical Questions
+* ** WHEN IN DOUBT, ASK THE BLOODY QUESTION** 
+* Reduce all BUDs when possible: 
+    * 
 

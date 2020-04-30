@@ -2,10 +2,26 @@
 
 ## Things to remember and notes:
 
+
+
+### Complexity 
+* space should be the memory USED to solve the given problem 
+* in-place means O(1)
+* if f(n) is in o(g(n)) -> f(n) is in O(g(n))
+* 
+
+
 ### Runtimes you need to memorize
 * Insertion Sort, Selection Sort and Quicksort: O(n<sup>2</sup>)
 * Mergesort, Heapsort: O(n log n)
 *
+
+### Spaces we need to memorize 
+* Insertion, selection, heapsort, bubble sort: O(1) 
+* Mergesort, Quicksort: O(n) 
+* When in doubt, O(n) space complexity 
+
+
 
 
 ## Questions: 
