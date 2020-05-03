@@ -1,62 +1,33 @@
-# ⭕ Big O (my god this is exciting)
+# 🧵 Arrays and strings
 
 ## Things to remember and notes:
 
+### Things to ask:
+* is using another integer considered a use of another data structure?
+
 ### Runtimes you need to memorize
-* Insertion Sort, Selection Sort and Quicksort: O(n<sup>2</sup>)
-* Mergesort, Heapsort: O(n log n)
+* Hash table insertion:
+    * linked list implementation: O(n) 
+    * bst/heap implementation: O(log n)
+
+### Nifty Tricks
+* In Java, strings and arrays are implemented the same
+* Strings are pass by copy, so make sure to analyse this in in runtime for how long it takes without stringbuilder
+* If you use stringbuilder, the copy only happens when you call toString(), and insertion is O(1)
+* Refer to Rabin-Karp substring search using hash 
+* Hashsets are really useful for targeting uniqueness
+* Use stringbuilder whenever you need to generate a new code 
+* bit vector > boolean array
+* When solving for matrices, try to solve for space!!
 
 
 ## Questions: 
 1)
 ~~~
-int product(int a, int b){
-    int sum = 0; 
-    for(int i = 0; i < b; i++){
-        sum +=a;
-    }
-    return sum; 
-}
+Zero Matrix
 ~~~
 
 2)
 ~~~
-int power(int a, int b) { 
-    if (b < 0) {
-        return 0;
-    }
-        
-    else if (b == 0) {
-        return 1;
-    }
-    
-    else {
-        return a * pow(a, b - 1);
-    }
+Uniqueness in a string
 ~~~
-
-3)
-~~~
-int sqrt(int x){
-    for (int i = 0; i < x; i++){
-        if (pow(i, 2) == x){
-            return i; 
-        }
-    }
-}
-~~~
-4) 
-~~~
-int intersect(int[] a, int[] b){
-    mergesort(b);
-    int intersect = 0; 
-    
-    for (int x : a) {
-        if (binarySearch(b, x) >= 0) {
-            intersect++;
-        }
-    }
-    return intersect; 
-}
-~~~
-
